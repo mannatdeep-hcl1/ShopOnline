@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import com.mannat.db.TestEntity;
+import com.mannat.model.TestEntity;
 import com.mannat.repos.TestRepo;
 
 @Controller

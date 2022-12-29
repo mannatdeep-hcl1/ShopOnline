@@ -1,4 +1,4 @@
-package com.mannat.db;
+package com.mannat.model;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
